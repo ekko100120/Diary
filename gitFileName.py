@@ -1,5 +1,6 @@
 #-*- coding:utf-8 -*-
-
+#author:ekko
+#date:2016/11/20
 import os 
 
 def getFileName(filename):
