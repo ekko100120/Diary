@@ -1,4 +1,4 @@
-## grep/awk/sedwen文档
+## grep/awk/sed 文档
 
 ***
 ###预备知识：正则表达式
